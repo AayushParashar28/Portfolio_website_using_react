@@ -1,5 +1,5 @@
 import React from "react";
-import codingNinjasLogo from "../../public/codingninjas.png"; // Use a high-res logo
+import codingNinjasLogo from "../../public/Codingninjas.png"; // Use a high-res logo
 
 function Experience() {
   const experiences = [
